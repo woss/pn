@@ -1,3 +1,5 @@
+**Rust migration is happening in the main [pnpm repository](https://github.com/pnpm/pnpm)**
+
 # pn
 
 This is an experimental wrapper over the pnpm CLI that aims to make pnpm faster, see [related discussion](https://github.com/pnpm/pnpm/discussions/3419).
